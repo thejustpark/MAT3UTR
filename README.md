@@ -16,7 +16,7 @@ To better understand the role of 3ʹ-UTR shortening in regulating ceRNA gene exp
 
 Download
 -----
-Please click on Full Documentation and download source code and test data. 
+Please click on Full Documentation to download source code and test data. 
 
 Citation
 -----
