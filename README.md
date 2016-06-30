@@ -1,7 +1,7 @@
 MAT3UTR(Model-based analysis of the trans effect of 3ʹ-UTR shortening)
 ======
 
-**Current version**: 0.9.1
+**Current version**: 0.9.2
 
 [**Full Documentations**](http://lilab.research.bcm.edu/dldcc-web/lilab/hjpark/MAT3UTR/MAT3UTR.html)
 Description
@@ -14,9 +14,12 @@ To better understand the role of 3ʹ-UTR shortening in regulating ceRNA gene exp
 ![Performance of MAT3UTR](https://farm2.staticflickr.com/1491/25079961993_953ae9070a_b.jpg)
 
 
+Download
+-----
+Please click on Full Documentation and download source code and test data. 
 
 Citation
 -----
 *Citation information will be given after deciding about publication*:
-* Park, H. J., Kim, S., Xia, Z., Rodriguez, B., Chen, K., Masamha, C. P., Shyu, A.-B., Neilson, J. R., Wagner, E. J., Li, W., CFIm25 3ʹ-UTR Shortening Represses Tumor Suppressors in trans by Disrupting ceRNA Crosstalk. 
+Hyun Jung Park^, Ping Ji^, Soyeon Kim, Zheng Xia, Benjamin Rodriguez, Chioniso P. Masamha, Ann-Bin Shyu, Joel R. Neilson, Eric J. Wagner, Wei Li 3ʹ-UTR Shortening Represses Tumor Suppressors in trans by Disrupting ceRNA Crosstalk. 
 
