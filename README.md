@@ -3,7 +3,7 @@ MAT3UTR(Model-based analysis of the trans effect of 3ʹ-UTR shortening)
 
 **Current version**: 0.9.2
 
-[**Full Documentations**](http://lilab.research.bcm.edu/dldcc-web/lilab/hjpark/MAT3UTR/MAT3UTR.html)
+[**Full Documentations**](http://lilab.research.bcm.edu/dldcc-web/lilab/Lei/MAT3UTR/MAT3UTR.html)
 Description
 -----
 To better understand the role of 3ʹ-UTR shortening in regulating ceRNA gene expression, we developed a mathematical model (MAT3UTR) to quantify the trans effect of 3ʹ-UTR shortening to their affected ceRNA partner. MAT3UTR predicts ceRNA expression change based on its 3ʹUS gene(s) expression and 3ʹ-UTR shortening level, miRNA-binding site(s), and miRNA expression(s)
